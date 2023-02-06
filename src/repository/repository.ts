@@ -33,7 +33,7 @@ function toFullName(json: FullNameJson): FullName {
 }
 
 function toSchool(schoolId: SchoolJsonId, name: TranslationTextJson | undefined): School | null {
-  if (name=== undefined) return null
+  if (name === undefined) return null
   return {
     id: schoolId,
     name: toTranslationText(name),
@@ -71,9 +71,14 @@ export function loadCharacters(): Character[] {
   return characterJson.map((charaJson: CharacterJson) => {
     const school: School | null = toSchool(charaJson.school, schoolJson[charaJson.school])
 
-    const clubs: Club[] | undefined = charaJson.club?.map((club: ClubJsonId) => {
-      return toClub(club, clubJson[club])
-    })
+    console.log(charaJson)
+    const clubs: Club[] | undefined = charaJson.club
+      ?.filter((club: ClubJsonId) => {
+        return club.length > 0
+      })
+      .map((club: ClubJsonId) => {
+        return toClub(club, clubJson[club])
+      })
 
     return toCharacter(charaJson.id, charaJson.name, charaJson.img, school, clubs)
   })

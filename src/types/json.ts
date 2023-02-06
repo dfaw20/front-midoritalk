@@ -138,10 +138,10 @@ export interface ClubJson {
 
 export interface TranslationTextJson {
   ja: string | null | undefined
-  en: string | null| undefined
-  ko: string | null| undefined
-  'zh-hant': string | null| undefined
-  'zh-hans': string | null| undefined
+  en: string | null | undefined
+  ko: string | null | undefined
+  'zh-hant': string | null | undefined
+  'zh-hans': string | null | undefined
 }
 
 export interface CharacterJson {

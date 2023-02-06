@@ -12,7 +12,7 @@ function CharacterList(): JSX.Element {
   return (
     <>
       {characters.map((chara) => {
-        return <>{chara.id}</>
+        return <div key={chara.id}>{chara.name.firstName.ja}</div>
       })}
     </>
   )
