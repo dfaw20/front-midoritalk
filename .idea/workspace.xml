@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5c716f52-f3a7-4018-803b-3d6888bcdbca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +37,10 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/d/Codes/MidoriTalk/front-midoritalk/src",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.eslint": "",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "/Users/d/Codes/MidoriTalk/front-midoritalk/node_modules/prettier",
