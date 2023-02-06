@@ -1,7 +1,7 @@
 export interface Character {
     id: string;
     name: FullName;
-    school: string;
+    school: School;
     club?: (Club)[];
     img?: (string)[];
 }
