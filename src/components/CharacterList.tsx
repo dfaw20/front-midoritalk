@@ -1,10 +1,21 @@
-import React, { useState } from 'react'
-import { type Character } from '../domain/entity'
+import React, { useEffect, useState } from 'react'
+import { loadCharacters } from '../repository/repository'
+import { type Character } from '../types/entity'
 
-function CharacterList() {
+function CharacterList(): JSX.Element {
   const [characters, setCharacters] = useState<Character[]>([])
 
-  return <></>
+  useEffect(() => {
+    setCharacters(loadCharacters())
+  }, [])
+
+  return (
+    <>
+      {characters.map((chara) => {
+        return <>{chara.id}</>
+      })}
+    </>
+  )
 }
 
 export default CharacterList

@@ -21,7 +21,9 @@ module.exports = {
     plugins: [
         'react'
     ],
-    rules: {},
+    rules: {
+        "@typescript-eslint/triple-slash-reference": 'off'
+    },
     settings: {
         'import/resolver': {
             node: {

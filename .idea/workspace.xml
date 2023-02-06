@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c716f52-f3a7-4018-803b-3d6888bcdbca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CharacterList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CharacterList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/entity.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/entity.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/reportWebVitals.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/repository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/repository.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/d/Codes/MidoriTalk/front-midoritalk/src",
+    "last_opened_file_path": "/Users/d/Codes/MidoriTalk/front-midoritalk/src/types",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -50,6 +56,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/types" />
+      <recent name="$PROJECT_DIR$/src/screens" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/screen" />
     </key>
