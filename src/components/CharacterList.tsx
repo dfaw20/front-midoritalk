@@ -1,13 +1,10 @@
-import React, {useState} from 'react';
-import {Character} from "../domain/entity";
+import React, { useState } from 'react'
+import { type Character } from '../domain/entity'
 
 function CharacterList() {
-  const [characters, setCharacters] = useState<Character[]>([]);
+  const [characters, setCharacters] = useState<Character[]>([])
 
-  return (
-    <>
-    </>
-  );
+  return <></>
 }
 
-export default CharacterList;
+export default CharacterList

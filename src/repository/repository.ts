@@ -1,2 +1,1 @@
-export function loadCharacters() {
-}
+export function loadCharacters() {}
