@@ -58,8 +58,15 @@ function toCharacter(
     id,
     name: toFullName(name),
     school,
-    clubs,
-    images: img,
+    clubs: clubs === undefined ? [] : clubs,
+    icons:
+      img === undefined || img === null
+        ? []
+        : img.map((image) => {
+            return {
+              imageName: image,
+            }
+          }),
   }
 }
 

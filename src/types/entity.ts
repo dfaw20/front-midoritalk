@@ -2,8 +2,12 @@ export interface Character {
   id: string
   name: FullName
   school: School | null
-  clubs: Club[] | undefined
-  images: string[] | null | undefined
+  clubs: Club[]
+  icons: Icon[]
+}
+
+export interface Icon {
+  imageName: string
 }
 
 export interface FullName {
@@ -28,3 +32,5 @@ export interface TranslationText {
   zhHant: string | null | undefined
   zhHans: string | null | undefined
 }
+
+export type Language = 'ja' | 'en' | 'ko' | 'zh-hant' | 'zh-hans'
