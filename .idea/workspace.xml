@@ -5,259 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c716f52-f3a7-4018-803b-3d6888bcdbca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CharacterList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CharacterList.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/MPLUSRounded1c-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/MPLUSRounded1c-Black.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Nunito-ExtraBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/Nunito-ExtraBold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Airi.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Airi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Akane.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Akane.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Akane_BunnyGirl.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Akane_BunnyGirl.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Akari.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Akari.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Ako.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Ako.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Alice.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Alice.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Arona.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Arona.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Aru.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Aru.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Aru_Newyear.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Aru_Newyear.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Asuna.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Asuna.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Asuna_BunnyGirl.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Asuna_BunnyGirl.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Atsuko.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Atsuko.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Atsuko_Masked.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Atsuko_Masked.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Ayane.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Ayane.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Ayane_Gym.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Ayane_Gym.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Ayane_Robber.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Ayane_Robber.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Ayane_Robber_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Ayane_Robber_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Ayane_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Ayane_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Ayumu.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Ayumu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Azusa.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Azusa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Azusa_Gasmask.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Azusa_Gasmask.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Azusa_Gym.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Azusa_Gym.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Azusa_Gym_Masked.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Azusa_Gym_Masked.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Azusa_School_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Azusa_School_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Azusa_School_Swimsuit_Masked.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Azusa_School_Swimsuit_Masked.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Azusa_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Azusa_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Beatrice.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Beatrice.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Binah.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Binah.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Black_Suit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Black_Suit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Cherino.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Cherino.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Cherino_Hotspring.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Cherino_Hotspring.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Chesed.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Chesed.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Chihiro.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Chihiro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Chinatsu.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Chinatsu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Chinatsu_Hotspring.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Chinatsu_Hotspring.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Chise.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Chise.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Chise_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Chise_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Citizen_Animal_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Citizen_Animal_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Citizen_Animal_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Citizen_Animal_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Citizen_Animal_6_Bandage.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Citizen_Animal_6_Bandage.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Citizen_Borot_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Citizen_Borot_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Citizen_Borot_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Citizen_Borot_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Citizen_animal7.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Citizen_animal7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Décalcomanie.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Décalcomanie.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Eimi.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Eimi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Fubuki.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Fubuki.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Fuuka.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Fuuka.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Fuuki_Normal_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Fuuki_Normal_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Golconde.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Golconde.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hanae.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hanae.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hanako.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hanako.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hanako_Gym.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hanako_Gym.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hanako_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hanako_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hare.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hare.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Haruka.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Haruka.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Haruka_Newyear.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Haruka_Newyear.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Haruna.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Haruna.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hasumi.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hasumi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Helmet_Dan_Black.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Helmet_Dan_Black.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Helmet_Dan_Red.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Helmet_Dan_Red.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hibiki.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hibiki.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hibiki_Cheer.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hibiki_Cheer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hieronymus.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hieronymus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hifumi.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hifumi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hifumi_Gym.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hifumi_Gym.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hifumi_Robber.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hifumi_Robber.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hifumi_School_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hifumi_School_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hifumi_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hifumi_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hina.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hina.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hina_Nightware.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hina_Nightware.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hina_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hina_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hinata.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hinata.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hiyori.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hiyori.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hod.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hod.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hoshino.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hoshino.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hoshino_Robber.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hoshino_Robber.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hoshino_Robber_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hoshino_Robber_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Hoshino_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Hoshino_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Iori.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Iori.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Iori_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Iori_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Iroha.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Iroha.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Izumi.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Izumi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Izumi_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Izumi_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Izuna.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Izuna.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Izuna_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Izuna_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Junko.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Junko.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Juri.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Juri.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Justice_Normal_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Justice_Normal_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kaede.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kaede.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kaho.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kaho.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kaiser_PMC_Director.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kaiser_PMC_Director.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kaiser_PMC_Director_Summer.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kaiser_PMC_Director_Summer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/KaitenFxMk0.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/KaitenFxMk0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kaitenger_Black.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kaitenger_Black.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kaitenger_Green.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kaitenger_Green.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kaitenger_Pink.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kaitenger_Pink.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kaitenger_Red.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kaitenger_Red.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kaitenger_Yellow.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kaitenger_Yellow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kanna.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kanna.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Karin.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Karin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Karin_BunnyGirl.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Karin_BunnyGirl.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kayoko.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kayoko.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kayoko_Newyear.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kayoko_Newyear.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kazusa.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kazusa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kirino.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kirino.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Koharu.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Koharu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Koharu_Gym.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Koharu_Gym.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Koharu_School_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Koharu_School_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kokona.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kokona.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kotama.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kotama.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kotori.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kotori.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kotori_Cheer.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kotori_Cheer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kotori_Cheer_Glasses.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kotori_Cheer_Glasses.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Kuro.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Kuro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Maestro.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Maestro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Maki.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Maki.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Mari.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Mari.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Marina.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Marina.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Market_Animal_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Market_Animal_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Mashiro.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Mashiro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Mashiro_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Mashiro_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Megu.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Megu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Michiru.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Michiru.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Midori.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Midori.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Mika.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Mika.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Millennium_Student_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Millennium_Student_A.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Millennium_Student_B.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Millennium_Student_B.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Mimori.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Mimori.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Mimori_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Mimori_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Minori.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Minori.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Misaki.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Misaki.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Miyako.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Miyako.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Miyu.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Miyu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Moe.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Moe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Momoi.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Momoi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Momoka.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Momoka.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Mutsuki.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Mutsuki.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Mutsuki_Newyear.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Mutsuki_Newyear.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Nagisa.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Nagisa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Natsu.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Natsu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Neru.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Neru.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Neru_BunnyGirl.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Neru_BunnyGirl.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Niya.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Niya.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Noa.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Noa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Nodoka.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Nodoka.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Nodoka_Hotspring.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Nodoka_Hotspring.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Nonomi.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Nonomi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Nonomi_Robber.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Nonomi_Robber.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Nonomi_Robber_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Nonomi_Robber_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Nonomi_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Nonomi_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Nyantenmaru.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Nyantenmaru.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Peroro_Sama.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Peroro_Sama.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Perorozilla.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Perorozilla.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Pina.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Pina.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Rabu.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Rabu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Reisa.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Reisa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Rin.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Rin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Saki.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Saki.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Saori.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Saori.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Saori_Masked.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Saori_Masked.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Saya.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Saya.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Saya_Casual.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Saya_Casual.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Seia.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Seia.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Sena.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Sena.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Serika.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Serika.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Serika_Newyear.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Serika_Newyear.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Serika_Robber.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Serika_Robber.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Serika_Robber_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Serika_Robber_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Serika_Shibaseki.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Serika_Shibaseki.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Serika_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Serika_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Serina.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Serina.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Shibaseki_Master.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Shibaseki_Master.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Shigure.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Shigure.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Shigure_Hotspring.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Shigure_Hotspring.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Shimiko.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Shimiko.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Shiro.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Shiro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Shiroko.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Shiroko.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Shiroko_Ridingsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Shiroko_Ridingsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Shiroko_Robber.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Shiroko_Robber.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Shiroko_Robber_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Shiroko_Robber_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Shiroko_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Shiroko_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Shizuko.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Shizuko.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Shizuko_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Shizuko_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Shun.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Shun.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Shun_Little_Girl.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Shun_Little_Girl.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Sisterhood_Executive.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Sisterhood_Executive.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Sora.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Sora.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/StreetGhoste_RL_Yukata.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/StreetGhoste_RL_Yukata.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Sukeban_HMG.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Sukeban_HMG.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Sukeban_MG_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Sukeban_MG_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Sukeban_SMG.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Sukeban_SMG.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Sukeban_SMG_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Sukeban_SMG_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Sukeban_SR.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Sukeban_SR.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Sumire.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Sumire.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Suzumi.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Suzumi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Teaparty_Administrator.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Teaparty_Administrator.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Teaparty_Escort.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Teaparty_Escort.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Tomoe.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Tomoe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Tsubaki.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Tsubaki.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Tsukuyo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Tsukuyo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Tsurugi.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Tsurugi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Tsurugi_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Tsurugi_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Ui.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Ui.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Utaha.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Utaha.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Utaha_Cheer.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Utaha_Cheer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Wakamo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Wakamo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Wakamo_Swimsuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Wakamo_Swimsuit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Yoshimi.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Yoshimi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Yukata_StreetGhostes.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Yukata_StreetGhostes.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Yuuka.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Yuuka.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/character/Yuzu.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/character/Yuzu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/emblem/abydos_high_school.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/emblem/abydos.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/emblem/allied_hyakkiyako_academy.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/emblem/hyakkiyako.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/emblem/arius_branch_school.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/emblem/arius.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/emblem/dummy.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/emblem/dummy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/emblem/gehenna_academy.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/emblem/gehenna.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/emblem/millennium_science_academy.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/emblem/millennium.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/emblem/red_winter_federal_academy.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/emblem/red_winter.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/emblem/shanhaijing_senior_secondary_school.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/emblem/shanhaijing.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/emblem/srt_special_academy.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/emblem/srt.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/emblem/trinity_general_school.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/emblem/trinity.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/emblem/valkyrie_police_academy.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/emblem/valkyrie.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/favicon/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/favicon/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/01.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/02.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/03.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/03.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/04.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/04.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/05.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/05.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/06.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/06.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/07.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/07.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/08.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/08.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/09.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/09.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/19.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stamp/ja/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/stamp/ja/20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/system/dummy.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/system/dummy.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/system/github.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/system/github.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/repository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/Repository.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/types/entity.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/entity.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -283,24 +35,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/d/Codes/MidoriTalk/front-midoritalk/src/types",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "/Users/d/Codes/MidoriTalk/front-midoritalk/node_modules/prettier",
-    "ts.external.directory.path": "/Users/d/Codes/MidoriTalk/front-midoritalk/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/d/Codes/MidoriTalk/front-midoritalk/src/types&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/d/Codes/MidoriTalk/front-midoritalk/node_modules/prettier&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/d/Codes/MidoriTalk/front-midoritalk/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/types" />
@@ -323,6 +75,10 @@
       <updated>1675685343481</updated>
       <workItem from="1675685345505" duration="516000" />
       <workItem from="1675686366126" duration="3887000" />
+      <workItem from="1676167237291" duration="1367000" />
+      <workItem from="1678523549615" duration="3000" />
+      <workItem from="1684332565160" duration="1013000" />
+      <workItem from="1684333617744" duration="360000" />
     </task>
     <servers />
   </component>

@@ -23,3 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 src/json
+
+src/firabase_config.json
