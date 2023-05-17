@@ -7,12 +7,11 @@ import {initializeApp} from 'firebase/app';
 import {getAnalytics} from 'firebase/analytics';
 
 import firebaseConfigFile from './firabase_config.json'
-import {FirebaseConfig} from "./types/configType";
+import {type FirebaseConfig} from "./types/configType";
 
 const firebaseConfig = firebaseConfigFile as FirebaseConfig
-
 const firebaseApp = initializeApp(firebaseConfig);
-const analytics = getAnalytics(firebaseApp);
+getAnalytics(firebaseApp);
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
 root.render(
