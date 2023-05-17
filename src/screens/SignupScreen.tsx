@@ -35,8 +35,8 @@ function SignupScreen(): JSX.Element {
   return (
     <>
       サインアップ
-        <input onChange={handleChangeEmail} value={inputEmail}/>
-        <input onChange={handleChangePassword} value={inputPassword}/>
+        <input type='email' onChange={handleChangeEmail} value={inputEmail}/>
+        <input type='password' onChange={handleChangePassword} value={inputPassword}/>
 
         <button onClick={submitSignup}>新規登録</button>
     </>

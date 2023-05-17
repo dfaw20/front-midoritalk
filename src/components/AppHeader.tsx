@@ -1,10 +1,14 @@
 import React from 'react'
 import {AppBar, Box, IconButton, Menu, MenuItem, Toolbar} from "@mui/material";
 import MenuIcon from '@mui/icons-material/Menu';
+import {useCurrentUser, useLogout} from "../auth/useAuth";
+import {Link} from "react-router-dom";
 
 function AppHeader(): JSX.Element {
 
     const [anchorEl, setAnchorEl] = React.useState<null | HTMLElement>(null);
+    const user = useCurrentUser();
+    const {logout} = useLogout();
 
     const handleMenu = (event: React.MouseEvent<HTMLElement>): void => {
         setAnchorEl(event.currentTarget);
@@ -13,6 +17,10 @@ function AppHeader(): JSX.Element {
     const handleClose = (): void => {
         setAnchorEl(null);
     };
+
+    const handleLogout = (): void => {
+        logout()
+    }
 
     return (
         <Box sx={{flexGrow: 1}}>
@@ -48,8 +56,13 @@ function AppHeader(): JSX.Element {
                             open={Boolean(anchorEl)}
                             onClose={handleClose}
                         >
-                            <MenuItem onClick={handleClose}>Account</MenuItem>
-                            <MenuItem onClick={handleClose}>Logout</MenuItem>
+                            <MenuItem>{user?.email}</MenuItem>
+                            {user !== null && <MenuItem onClick={handleLogout}>ログアウト</MenuItem>}
+                            {user === null &&
+                                <Link to="/login">
+                                    <MenuItem>ログイン</MenuItem>
+                                </Link>
+                            }
                         </Menu>
                     </div>
                 </Toolbar>
